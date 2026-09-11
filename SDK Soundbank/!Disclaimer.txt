@@ -1,0 +1,20 @@
+There's no such a thing of SNES SDK released officially.
+The sounds in here are based in how many times they reappear through the games from the SNES library, excluding the company exclusive ones.
+The "SNES SDK samples" reffered here is only a catchall term, no release of the SNES/SFC SDKs contains such samples.
+It's more likely that the SDK samples were provided by the SNES sound chip's manufacturer, Sony, or were shared amongst composers in the industry.
+
+Sources/Documentation:
+https://youtu.be/lA3LzyH6cEg?t=342
+http://www.vgmpf.com/Wiki/index.php?title=S-SMP
+http://www.vgmpf.com/Wiki/index.php?title=Barry_Leitch#SNES
+http://www.vgmpf.com/Wiki/index.php?title=Hiroyuki_Masuno#SNES
+https://www.romhacking.net/documents/589/
+https://www.retroreversing.com/super-famicom-snes-development-kit
+https://web.archive.org/web/20190822185510/https://www.obscuregamers.com/threads/sfc-snes-development-manual-and-software-source.907/
+
+SNES SDK sources sheet:
+https://docs.google.com/spreadsheets/d/1VAPW5KKPZWA33dadeaBA7PkpUvfrRPHMgmkU6fA-2Uk/edit?gid=33003749#gid=33003749
+
+Sample researches by skx:
+https://cdn.discordapp.com/attachments/793887787178655784/794705977320144915/SNES_SDK_sample_candidates.zip
+https://cdn.discordapp.com/attachments/793887787178655784/794705967739830282/SNES_SDK_Initial_Findings.txt
